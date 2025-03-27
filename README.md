@@ -8,7 +8,6 @@
 - 🔍 **Interests**: Exploring OSINT (Open-Source Intelligence) and Bug Bounty programs.
 
 📫 **Contact Me**:  
-- [Telegram](https://t.me/Qazmlpoknxsw_1247809363)  
 - [LinkedIn](https://www.linkedin.com/in/gofiraliyev-muxammadjon-9451b3327)  
 - 📧 Email: ugofurov787@gmail.com  
 
@@ -66,7 +65,6 @@ I’m passionate about cybersecurity and ethical hacking. Starting with foundati
 - 🔍 **Qiziqishlarim**: OSINT (Ochiq manbali razvedka) va Bug Bounty dasturlarini o‘rganmoqdaman.
 
 📫 **Menga bog‘lanish**:  
-- [Telegram](https://t.me/Qazmlpoknxsw_1247809363)  
 - [LinkedIn](https://www.linkedin.com/in/gofiraliyev-muxammadjon-9451b3327)  
 - 📧 Email: ugofurov787@gmail.com  
 
